@@ -21,7 +21,7 @@
 
 - 📫 You can reach me via **patricksimon045@gmail.com**
 
-- ⚡ Fun fact: I'e got an eye for a good design 👌
+- ⚡ Fun fact: I've got an eye for a good design 👌
 
 <h2 width="30px" height="50px"></h2>
 
