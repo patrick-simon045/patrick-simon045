@@ -1,5 +1,11 @@
 <div align="center">
-<h2> Hello there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,  I’m Patrick </h2>
+<h2> Hello there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<!-- <h2 width="30px" height="50px"></h2> -->
+
+<div align="center">
+  <h3> My name is <span style="font-weight:900;">Patrick</span> and these are my details </h3>
 </div>
 
 <h2 width="30px" height="50px"></h2>
