@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **UI design**, **Flutter**, **Django** and **React**
 
-<!-- - 📫 How to reach me **https://www.instagram.com/_jay_367/** -->
+- 📫 You can reach me via **patricksimon045@gmail.com**
 
 <h2 width="30px" height="50px"></h2>
 
