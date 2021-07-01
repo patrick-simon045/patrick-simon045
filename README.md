@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Kotlin specifically using Jetpack-Compose library**
 
-- 🌱 I’m also currently refining **good practises in writing my code fro both usability and scalability**
+- 🌱 I’m also currently refining **good practises in writing my code for both usability and scalability**
 
 - 💬 Ask me about **UI design**, **Flutter**, **Django** and **React**
 
