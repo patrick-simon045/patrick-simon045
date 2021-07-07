@@ -17,7 +17,7 @@
 
 - 🌱 I’m also currently refining **good practises in writing my code for both usability and scalability**
 
-- 💬 Ask me about **UI design**, **Flutter**, **Django** and **React**
+- 💬 Ask me about **UI design for Flutter and React** and  **Backend with Django**
 
 - 📫 You can reach me via **patricksimon045@gmail.com**
 
