@@ -11,7 +11,7 @@
 <h2 width="30px" height="50px"></h2>
 
 
-- 🔭 I’m currently working on **My University Final year project** that incorporates React js, Django and Microsoft Sql Server
+- 🔭 I’m have worked on **My University Final year project** that incorporates React js, Django and Microsoft Sql Server
 
 - 🌱 I’m currently learning **Kotlin specifically using Jetpack-Compose library**
 
